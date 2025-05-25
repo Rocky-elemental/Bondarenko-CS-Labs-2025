@@ -1,0 +1,3 @@
+/home/rocky/Bondarenko-CS-Labs-2024/Labs/lab8/build/CMakeFiles/lab8.dir
+/home/rocky/Bondarenko-CS-Labs-2024/Labs/lab8/build/CMakeFiles/edit_cache.dir
+/home/rocky/Bondarenko-CS-Labs-2024/Labs/lab8/build/CMakeFiles/rebuild_cache.dir
