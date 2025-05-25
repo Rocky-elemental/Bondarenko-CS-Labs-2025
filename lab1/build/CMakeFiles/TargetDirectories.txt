@@ -1,0 +1,9 @@
+/home/rocky/Bondarenko-CS-Labs-2024/Labs/lab1/build/CMakeFiles/lab1.dir
+/home/rocky/Bondarenko-CS-Labs-2024/Labs/lab1/build/CMakeFiles/edit_cache.dir
+/home/rocky/Bondarenko-CS-Labs-2024/Labs/lab1/build/CMakeFiles/rebuild_cache.dir
+/home/rocky/Bondarenko-CS-Labs-2024/Labs/lab1/build/mymath/CMakeFiles/mymath.dir
+/home/rocky/Bondarenko-CS-Labs-2024/Labs/lab1/build/mymath/CMakeFiles/edit_cache.dir
+/home/rocky/Bondarenko-CS-Labs-2024/Labs/lab1/build/mymath/CMakeFiles/rebuild_cache.dir
+/home/rocky/Bondarenko-CS-Labs-2024/Labs/lab1/build/factorial/CMakeFiles/factorial.dir
+/home/rocky/Bondarenko-CS-Labs-2024/Labs/lab1/build/factorial/CMakeFiles/edit_cache.dir
+/home/rocky/Bondarenko-CS-Labs-2024/Labs/lab1/build/factorial/CMakeFiles/rebuild_cache.dir
