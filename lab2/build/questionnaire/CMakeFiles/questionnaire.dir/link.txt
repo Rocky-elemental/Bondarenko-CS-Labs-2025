@@ -1,0 +1,2 @@
+/usr/bin/ar qc libquestionnaire.a CMakeFiles/questionnaire.dir/questionnaire.cpp.o
+/usr/bin/ranlib libquestionnaire.a
